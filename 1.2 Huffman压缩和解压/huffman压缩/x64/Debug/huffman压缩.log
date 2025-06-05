@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(huffman压缩.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Compress.cpp
+D:\WUT\大二\第二学期\数据结构实验\ex-1\huffman压缩和解压\huffman压缩\Compress.cpp(47,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\WUT\大二\第二学期\数据结构实验\ex-1\huffman压缩和解压\huffman压缩\Compress.cpp(90,22): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+D:\WUT\大二\第二学期\数据结构实验\ex-1\huffman压缩和解压\huffman压缩\Compress.cpp(158,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Huffman.cpp
+  Huffman.h
+  Main.cpp
+  Unpack.cpp
+D:\WUT\大二\第二学期\数据结构实验\ex-1\huffman压缩和解压\huffman压缩\Unpack.cpp(10,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\WUT\大二\第二学期\数据结构实验\ex-1\huffman压缩和解压\huffman压缩\Unpack.cpp(28,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\WUT\大二\第二学期\数据结构实验\ex-1\huffman压缩和解压\huffman压缩\Unpack.cpp(72,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\WUT\大二\第二学期\数据结构实验\ex-1\huffman压缩和解压\huffman压缩\Unpack.cpp(125,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+x64\Debug\Huffman.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  huffman压缩.vcxproj -> D:\WUT\大二\第二学期\数据结构实验\ex-1\huffman压缩和解压\x64\Debug\huffman压缩与解压.exe

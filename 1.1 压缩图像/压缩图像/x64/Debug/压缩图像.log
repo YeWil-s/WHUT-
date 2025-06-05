@@ -1,0 +1,7 @@
+﻿  Compress.cpp
+C:\Users\Ye\Desktop\WUT\大二\大二下\数据结构实验\压缩图像\压缩图像\Compress.cpp(86,22): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Ye\Desktop\WUT\大二\大二下\数据结构实验\压缩图像\压缩图像\Compress.cpp(155,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Huffman.cpp
+  正在生成代码...
+x64\Debug\Compress.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  压缩图像.vcxproj -> C:\Users\Ye\Desktop\WUT\大二\大二下\数据结构实验\压缩图像\x64\Debug\压缩图像.exe
